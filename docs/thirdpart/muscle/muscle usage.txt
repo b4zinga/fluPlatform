@@ -1,0 +1,19 @@
+﻿
+
+
+
+
+
+
+	MUSCLE 算法是 Multiple Protein Sequence Alignment的缩写，
+是一种常用的多序列比对开源软件，同时也是速度最快的多序列对比
+软件之一。其算法原理是首先使用渐进式比对获得初始的多序列比对，
+然后再通过横向精炼迭代提高多序列比对结果。(对位排列)
+
+	muscle基本使用命令：
+		muscle -in seqs.fa -out seqs.afa
+
+
+MUSCLE下载地址：	http://www.drive5.com/muscle/downloads.htm
+	
+	
